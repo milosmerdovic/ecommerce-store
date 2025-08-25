@@ -1,0 +1,3 @@
+Ovo je test fajl da proverim da li radi push na GitHub repository.
+Datum: 2025-01-27
+Test: Push functionality 
